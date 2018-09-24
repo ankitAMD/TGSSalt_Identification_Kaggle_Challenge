@@ -36,3 +36,10 @@ https://www.kaggle.com/c/tgs-salt-identification-challenge/data..
  https://github.com/llSourcell/Kaggle_... 
  
  
+## Bullet and numbered list
+
+https://medium.com/ibm-data-science-experience/markdown-for-jupyter-notebooks-cheatsheet-386c05aeebed ...
+
+http://nestacms.com/docs/creating-content/markdown-cheat-sheet...
+
+https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb
