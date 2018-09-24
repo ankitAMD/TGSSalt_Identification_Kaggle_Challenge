@@ -43,3 +43,7 @@ https://medium.com/ibm-data-science-experience/markdown-for-jupyter-notebooks-ch
 http://nestacms.com/docs/creating-content/markdown-cheat-sheet...
 
 https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%20Manual.ipynb
+
+## image showing on jupyter notebook
+
+![title](https://pbs.twimg.com/media/DilKBjUVsAA74j1.jpg) 
