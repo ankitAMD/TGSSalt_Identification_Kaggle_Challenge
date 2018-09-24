@@ -15,6 +15,16 @@ Random Fields, and neural networks! Expect some colorful exploratory data analys
  
  https://lmb.informatik.uni-freiburg.d...
  
+ https://www.iongeo.com/content/documents/Resource%20Center/Articles/INT_Imaging_Salt_tutorial_141101.pdf....
+ 
+ https://wiki.seg.org/wiki/Seismic_Data_Analysis..
+ 
+ https://wiki.seg.org/wiki/Salt_flanks...
+ 
+ https://wiki.seg.org/wiki/Salt-flank_reflections...
+ 
+ http://the-geophysicist.com/the-showroom-data-for-my-thesis... 
+ 
  ## Kaggle_Challenge: 
  
  https://www.kaggle.com/c/tgs-salt-ide..
