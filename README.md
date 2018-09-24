@@ -46,4 +46,4 @@ https://jupyter.brynmawr.edu/services/public/dblank/Jupyter%20Notebook%20Users%2
 
 ## image showing on jupyter notebook
 
-#![title](https://pbs.twimg.com/media/DilKBjUVsAA74j1.jpg) 
+*  ![title](https://pbs.twimg.com/media/DilKBjUVsAA74j1.jpg)
