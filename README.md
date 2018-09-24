@@ -17,7 +17,9 @@ Random Fields, and neural networks! Expect some colorful exploratory data analys
  
  ## Kaggle_Challenge: 
  
- https://www.kaggle.com/c/tgs-salt-ide...
+ https://www.kaggle.com/c/tgs-salt-ide..
+ 
+https://www.kaggle.com/c/tgs-salt-identification-challenge/data..
  
  ## credit 
  
